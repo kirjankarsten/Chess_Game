@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0bb6169-a1bd-4915-987d-40f082309977" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/boardScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/boardScript.cs" afterDir="false" />
-    </list>
+    <list default="true" id="a0bb6169-a1bd-4915-987d-40f082309977" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,15 +13,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="598">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
-                <marker date="1556619008676" expanded="false" signature="6:40" ph="..." />
-                <marker date="1556619008676" expanded="true" signature="82:2389" ph="{...}" />
-                <marker date="1556619008676" expanded="true" signature="1699:2323" ph="{...}" />
-                <marker date="1556619008676" expanded="true" signature="1763:2238" ph="{...}" />
-                <marker date="1556619008676" expanded="true" signature="2273:2317" ph="{...}" />
-                <marker date="1556619008676" expanded="true" signature="2356:2387" ph="{...}" />
+                <marker date="1556619068425" expanded="false" signature="6:40" ph="..." />
+                <marker date="1556619068425" expanded="true" signature="82:2393" ph="{...}" />
+                <marker date="1556619068425" expanded="true" signature="1699:2327" ph="{...}" />
+                <marker date="1556619068425" expanded="true" signature="1763:2238" ph="{...}" />
+                <marker date="1556619068425" expanded="true" signature="2273:2321" ph="{...}" />
+                <marker date="1556619068425" expanded="true" signature="2360:2391" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -147,12 +142,12 @@
       <updated>1556548524139</updated>
       <workItem from="1556548527075" duration="26000" />
       <workItem from="1556548569517" duration="2795000" />
-      <workItem from="1556618234926" duration="789000" />
+      <workItem from="1556618234926" duration="1476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3610000" />
+    <option name="totallyTimeSpent" value="4297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -215,15 +210,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        <state relative-caret-position="598">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <marker date="1556619008676" expanded="false" signature="6:40" ph="..." />
-            <marker date="1556619008676" expanded="true" signature="82:2389" ph="{...}" />
-            <marker date="1556619008676" expanded="true" signature="1699:2323" ph="{...}" />
-            <marker date="1556619008676" expanded="true" signature="1763:2238" ph="{...}" />
-            <marker date="1556619008676" expanded="true" signature="2273:2317" ph="{...}" />
-            <marker date="1556619008676" expanded="true" signature="2356:2387" ph="{...}" />
+            <marker date="1556619068425" expanded="false" signature="6:40" ph="..." />
+            <marker date="1556619068425" expanded="true" signature="82:2393" ph="{...}" />
+            <marker date="1556619068425" expanded="true" signature="1699:2327" ph="{...}" />
+            <marker date="1556619068425" expanded="true" signature="1763:2238" ph="{...}" />
+            <marker date="1556619068425" expanded="true" signature="2273:2321" ph="{...}" />
+            <marker date="1556619068425" expanded="true" signature="2360:2391" ph="{...}" />
           </folding>
         </state>
       </provider>

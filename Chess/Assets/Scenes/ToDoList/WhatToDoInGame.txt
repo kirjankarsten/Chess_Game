@@ -1,0 +1,27 @@
+Make double array of buttons, the buttons on the board
+
+Make array of peaces (for black & white seperate array) to check if something is on it when moving a chess peace -> loop thru the [turn color] and see if that color is already on it, else, you can go there.
+
+Gameplay:
+1. Make board of buttons -> 9x9 (only make the buttons clickable if something is on it)
+2. When button pressed -> check if something is on it, and what (using the sprite name eg. white_Queen or black_King)
+3. Make the possible moves green, and make the possible moves clickable
+4. When clicked, go to the position (for now just teleport to it)
+5. After each turn, check if king is possible to move, else win
+6. After a turn, let the other person have a turn (print the color of the turn)
+7. When won, print [color] won the game
+
+GUI:
+1. Make restart button to play again
+2. Have a GUI Button that lets you start the game
+3. Have a Home interface with: Play, Quit
+4. Quit: Exit game
+5. Play: Play game with a random turn to white/ black
+6. When two of the peaces collide on same square (black & white), remove the peace that wanst its turn 
+
+Methodes:
+1. board[,] - getNewBoard(); -> returns fresh board
+2. board[,] - getBoard(); -> returns board
+3. String - whatIsOnIt(int x, int y); -> check what color and peace is on the pressed button
+4. boolean - makeGreen(String peace, int x, int y, boolean makeGreen); -> checks what peace it is, and makes the board turn green where it may go using the getBoard() methode.
+5. boolean isGameOver(); -> locates the king and checks if it is possible to move the king using makeGreen() methode, returns true/ false and using the makeGreen booelean, set it to make it green or not

@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0bb6169-a1bd-4915-987d-40f082309977" name="Default Changelist" comment="" />
+    <list default="true" id="a0bb6169-a1bd-4915-987d-40f082309977" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ToDoList.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ToDoList/WhatToDoInGame.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ToDoList/WhatToDoInGame.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ToDoList/~$atToDoInGame.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/boardScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/boardScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,18 +26,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="44">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
               <folding>
-                <marker date="1556619068425" expanded="false" signature="6:40" ph="..." />
-                <marker date="1556619068425" expanded="true" signature="82:2393" ph="{...}" />
-                <marker date="1556619068425" expanded="true" signature="1699:2327" ph="{...}" />
-                <marker date="1556619068425" expanded="true" signature="1763:2238" ph="{...}" />
-                <marker date="1556619068425" expanded="true" signature="2273:2321" ph="{...}" />
-                <marker date="1556619068425" expanded="true" signature="2360:2391" ph="{...}" />
+                <marker date="1556659027998" expanded="true" signature="6:40" ph="..." />
+                <marker date="1556659027998" expanded="true" signature="82:3679" ph="{...}" />
+                <marker date="1556659027998" expanded="true" signature="1805:2294" ph="{...}" />
+                <marker date="1556659027998" expanded="true" signature="1897:2287" ph="{...}" />
+                <marker date="1556659027998" expanded="true" signature="2360:2391" ph="{...}" />
+                <marker date="1556659027998" expanded="true" signature="2427:2477" ph="{...}" />
+                <marker date="1556659027998" expanded="true" signature="2539:3677" ph="{...}" />
+                <marker date="1556659027998" expanded="true" signature="3586:3671" ph="{...}" />
+                <marker date="1556659027998" expanded="true" signature="3622:3664" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayNewGame.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1556659478222" expanded="true" signature="60:186" ph="{...}" />
+                <marker date="1556659478222" expanded="true" signature="90:184" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,6 +65,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayNewGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoardScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -40,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/boardScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BoardScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayNewGame.cs" />
       </list>
     </option>
   </component>
@@ -55,8 +89,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -88,9 +124,7 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,10 +133,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,11 +178,12 @@
       <workItem from="1556548527075" duration="26000" />
       <workItem from="1556548569517" duration="2795000" />
       <workItem from="1556618234926" duration="1476000" />
+      <workItem from="1556657305459" duration="2171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4297000" />
+    <option name="totallyTimeSpent" value="6468000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -162,7 +198,7 @@
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11673774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117803834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -210,15 +246,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <marker date="1556619068425" expanded="false" signature="6:40" ph="..." />
-            <marker date="1556619068425" expanded="true" signature="82:2393" ph="{...}" />
-            <marker date="1556619068425" expanded="true" signature="1699:2327" ph="{...}" />
-            <marker date="1556619068425" expanded="true" signature="1763:2238" ph="{...}" />
-            <marker date="1556619068425" expanded="true" signature="2273:2321" ph="{...}" />
-            <marker date="1556619068425" expanded="true" signature="2360:2391" ph="{...}" />
+            <marker date="1556659027998" expanded="true" signature="6:40" ph="..." />
+            <marker date="1556659027998" expanded="true" signature="82:3679" ph="{...}" />
+            <marker date="1556659027998" expanded="true" signature="1805:2294" ph="{...}" />
+            <marker date="1556659027998" expanded="true" signature="1897:2287" ph="{...}" />
+            <marker date="1556659027998" expanded="true" signature="2360:2391" ph="{...}" />
+            <marker date="1556659027998" expanded="true" signature="2427:2477" ph="{...}" />
+            <marker date="1556659027998" expanded="true" signature="2539:3677" ph="{...}" />
+            <marker date="1556659027998" expanded="true" signature="3586:3671" ph="{...}" />
+            <marker date="1556659027998" expanded="true" signature="3622:3664" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayNewGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1556659478222" expanded="true" signature="60:186" ph="{...}" />
+            <marker date="1556659478222" expanded="true" signature="90:184" ph="{...}" />
           </folding>
         </state>
       </provider>

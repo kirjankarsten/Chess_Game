@@ -6,13 +6,12 @@
     <e p="E:\GitHub\Chess_Game\Chess" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scenes" t="Include">
-          <e p="ToDoList" t="Include">
-            <e p="WhatToDoInGame.txt" t="Include" />
-          </e>
-        </e>
         <e p="Scripts" t="Include">
           <e p="boardScript.cs" t="Include" />
+          <e p="PlayNewGame.cs" t="Include" />
+        </e>
+        <e p="ToDoList" t="Include">
+          <e p="WhatToDoInGame.txt" t="Include" />
         </e>
       </e>
       <e p="Chess.sln" t="IncludeFlat" />

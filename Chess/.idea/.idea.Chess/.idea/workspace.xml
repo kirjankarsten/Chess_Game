@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0bb6169-a1bd-4915-987d-40f082309977" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ToDoList.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ToDoList/WhatToDoInGame.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ToDoList/WhatToDoInGame.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ToDoList/~$atToDoInGame.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/boardScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/boardScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,34 +15,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="682">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <marker date="1556659027998" expanded="true" signature="6:40" ph="..." />
-                <marker date="1556659027998" expanded="true" signature="82:3679" ph="{...}" />
-                <marker date="1556659027998" expanded="true" signature="1805:2294" ph="{...}" />
-                <marker date="1556659027998" expanded="true" signature="1897:2287" ph="{...}" />
-                <marker date="1556659027998" expanded="true" signature="2360:2391" ph="{...}" />
-                <marker date="1556659027998" expanded="true" signature="2427:2477" ph="{...}" />
-                <marker date="1556659027998" expanded="true" signature="2539:3677" ph="{...}" />
-                <marker date="1556659027998" expanded="true" signature="3586:3671" ph="{...}" />
-                <marker date="1556659027998" expanded="true" signature="3622:3664" ph="{...}" />
+                <marker date="1556662051666" expanded="true" signature="6:40" ph="..." />
+                <marker date="1556662051666" expanded="true" signature="82:3679" ph="{...}" />
+                <marker date="1556662051666" expanded="true" signature="1805:2294" ph="{...}" />
+                <marker date="1556662051666" expanded="true" signature="1897:2287" ph="{...}" />
+                <marker date="1556662051666" expanded="true" signature="2360:2391" ph="{...}" />
+                <marker date="1556662051666" expanded="true" signature="2427:2477" ph="{...}" />
+                <marker date="1556662051666" expanded="true" signature="2539:3677" ph="{...}" />
+                <marker date="1556662051666" expanded="true" signature="3586:3671" ph="{...}" />
+                <marker date="1556662051666" expanded="true" signature="3622:3664" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayNewGame.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="230">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1556659478222" expanded="true" signature="60:186" ph="{...}" />
-                <marker date="1556659478222" expanded="true" signature="90:184" ph="{...}" />
+                <marker date="1556659635572" expanded="true" signature="60:207" ph="{...}" />
+                <marker date="1556659635572" expanded="true" signature="93:205" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,8 +61,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/boardScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BoardScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayNewGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoardScript.cs" />
       </list>
     </option>
   </component>
@@ -117,6 +106,11 @@
               <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
               <item name="Editor" type="1045f7f1:UnityExplorerNode" />
               <item name="JetBrains" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -178,12 +172,12 @@
       <workItem from="1556548527075" duration="26000" />
       <workItem from="1556548569517" duration="2795000" />
       <workItem from="1556618234926" duration="1476000" />
-      <workItem from="1556657305459" duration="2171000" />
+      <workItem from="1556657305459" duration="4096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6468000" />
+    <option name="totallyTimeSpent" value="8393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -198,7 +192,7 @@
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117803834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117803834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -244,31 +238,31 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardScript.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayNewGame.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <marker date="1556659027998" expanded="true" signature="6:40" ph="..." />
-            <marker date="1556659027998" expanded="true" signature="82:3679" ph="{...}" />
-            <marker date="1556659027998" expanded="true" signature="1805:2294" ph="{...}" />
-            <marker date="1556659027998" expanded="true" signature="1897:2287" ph="{...}" />
-            <marker date="1556659027998" expanded="true" signature="2360:2391" ph="{...}" />
-            <marker date="1556659027998" expanded="true" signature="2427:2477" ph="{...}" />
-            <marker date="1556659027998" expanded="true" signature="2539:3677" ph="{...}" />
-            <marker date="1556659027998" expanded="true" signature="3586:3671" ph="{...}" />
-            <marker date="1556659027998" expanded="true" signature="3622:3664" ph="{...}" />
+            <marker date="1556659635572" expanded="true" signature="60:207" ph="{...}" />
+            <marker date="1556659635572" expanded="true" signature="93:205" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayNewGame.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="682">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
-            <marker date="1556659478222" expanded="true" signature="60:186" ph="{...}" />
-            <marker date="1556659478222" expanded="true" signature="90:184" ph="{...}" />
+            <marker date="1556662051666" expanded="true" signature="6:40" ph="..." />
+            <marker date="1556662051666" expanded="true" signature="82:3679" ph="{...}" />
+            <marker date="1556662051666" expanded="true" signature="1805:2294" ph="{...}" />
+            <marker date="1556662051666" expanded="true" signature="1897:2287" ph="{...}" />
+            <marker date="1556662051666" expanded="true" signature="2360:2391" ph="{...}" />
+            <marker date="1556662051666" expanded="true" signature="2427:2477" ph="{...}" />
+            <marker date="1556662051666" expanded="true" signature="2539:3677" ph="{...}" />
+            <marker date="1556662051666" expanded="true" signature="3586:3671" ph="{...}" />
+            <marker date="1556662051666" expanded="true" signature="3622:3664" ph="{...}" />
           </folding>
         </state>
       </provider>

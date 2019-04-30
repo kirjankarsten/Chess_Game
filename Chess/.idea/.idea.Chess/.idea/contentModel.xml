@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Kirjan Karsten\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Kirjan Karsten\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Chess.-751645464.00" t="ExcludeRecursive" />
-    <e p="E:\Unity Projects\Chess" t="IncludeRecursive">
+    <e p="C:\Users\Kirjan Karsten\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Chess.1802486757.00" t="ExcludeRecursive" />
+    <e p="E:\GitHub\Chess_Game\Chess" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scenes" t="Include">

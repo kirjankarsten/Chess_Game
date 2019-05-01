@@ -14,25 +14,26 @@ public class BoardScript : MonoBehaviour
     public Button b55; public Button b56; public Button b57; public Button b58; public Button b59; public Button b60; public Button b61; public Button b62; public Button b63;
     public Button b64;
 
+    public GameObject s1;
+
     // All images for the chess pieces
-    public Image blackBishop;
-    public Image blackKing;
-    public Image blackKnight;
-    public Image blackPawn;
-    public Image blackQueen;
-    public Image blackRook;
+    public Sprite blackBishop;
+    public Sprite blackKing;
+    public Sprite blackKnight;
+    public Sprite blackPawn;
+    public Sprite blackQueen;
+    public Sprite blackRook;
 
-    public Image whiteBishop;
-    public Image whiteKing;
-    public Image whiteKnight;
-    public Image whitePawn;
-    public Image whiteQueen;
-    public Image whiteRook;
-
+    public Sprite whiteBishop;
+    public Sprite whiteKing;
+    public Sprite whiteKnight;
+    public Sprite whitePawn;
+    public Sprite whiteQueen;
+    public Sprite whiteRook;
 
     public void Start()
     {
-	    b1 = GetComponent<Button>();
+
 
 		// 2D array of the buttons
 	    board = new [,] {
@@ -63,42 +64,42 @@ public class BoardScript : MonoBehaviour
     public void ResetBoard()
     {
 	    // Resets the black side
-	    b1.image = blackRook;
-	    b2.image = blackKnight;
-	    b3.image = blackBishop;
-	    b4.image = blackQueen;
-	    b5.image = blackKing;
-	    b6.image = blackBishop;
-	    b7.image = blackKnight;
-	    b8.image = blackRook;
-
-	    b9.image  = blackPawn;
-	    b10.image = blackPawn;
-	    b11.image = blackPawn;
-	    b12.image = blackPawn;
-	    b13.image = blackPawn;
-	    b14.image = blackPawn;
-	    b15.image = blackPawn;
-	    b16.image = blackPawn;
-
-		// Resets the White side
-	    b49.image = whitePawn;
-	    b50.image = whitePawn;
-	    b51.image = whitePawn;
-	    b52.image = whitePawn;
-	    b53.image = whitePawn;
-	    b54.image = whitePawn;
-	    b55.image = whitePawn;
-	    b56.image = whitePawn;
-
-	    b57.image = whiteRook;
-	    b58.image = whiteKnight;
-	    b59.image = whiteBishop;
-	    b60.image = whiteQueen;
-	    b61.image = whiteKing;
-	    b62.image = whiteBishop;
-	    b63.image = whiteKnight;
-	    b64.image = whiteRook;
+	    s1.s = blackRook;
+//	    b2.image = blackKnight;
+//	    b3.image = blackBishop;
+//	    b4.image = blackQueen;
+//	    b5.image = blackKing;
+//	    b6.image = blackBishop;
+//	    b7.image = blackKnight;
+//	    b8.image = blackRook;
+//
+//	    b9.image  = blackPawn;
+//	    b10.image = blackPawn;
+//	    b11.image = blackPawn;
+//	    b12.image = blackPawn;
+//	    b13.image = blackPawn;
+//	    b14.image = blackPawn;
+//	    b15.image = blackPawn;
+//	    b16.image = blackPawn;
+//
+//		// Resets the White side
+//	    b49.image = whitePawn;
+//	    b50.image = whitePawn;
+//	    b51.image = whitePawn;
+//	    b52.image = whitePawn;
+//	    b53.image = whitePawn;
+//	    b54.image = whitePawn;
+//	    b55.image = whitePawn;
+//	    b56.image = whitePawn;
+//
+//	    b57.image = whiteRook;
+//	    b58.image = whiteKnight;
+//	    b59.image = whiteBishop;
+//	    b60.image = whiteQueen;
+//	    b61.image = whiteKing;
+//	    b62.image = whiteBishop;
+//	    b63.image = whiteKnight;
+//	    b64.image = whiteRook;
 
 	    // Sets the rest of images to null
 	    for (var i = 1; i < 7; i++) {

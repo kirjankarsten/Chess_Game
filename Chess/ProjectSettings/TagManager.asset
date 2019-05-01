@@ -47,3 +47,6 @@ TagManager:
   - name: ChessPiece
     uniqueID: 1622167917
     locked: 0
+  - name: LastLayer
+    uniqueID: 1348403203
+    locked: 0

@@ -35,17 +35,17 @@ public class DuringGame : MonoBehaviour
         GetTurn();
         var buttonName = EventSystem.current.currentSelectedGameObject;
         var boardScript = gameObject.GetComponent<BoardScript>();
-        int _y = 0;
-        int _x = 0;
+        var y = 0;
+        var x = 0;
 
-        for (int x = 0; x < 8; x++)
+        for (int u = 0; u < 8; u++)
         {
-            for (int y = 0; y < 8; y++)
+            for (int t = 0; t < 8; t++)
             {
-                if (boardScript.GetBoard()[x, y].Equals(buttonName))
+                if (boardScript.GetBoard()[u, t].name.Equals(GetPiece(buttonName)))
                 {
-                    _y = y;
-                    _x = x;
+                    y = t;
+                    x = u;
                 }
             }
         }
@@ -54,22 +54,22 @@ public class DuringGame : MonoBehaviour
 
         if (GetPiece(buttonName).Equals("Black_Bishop") || GetPiece(buttonName).Equals("White_Bishop"))
         {
-            Bishop(_x, _y);
+            Bishop(x, y);
         } else if (GetPiece(buttonName).Equals("Black_King") || GetPiece(buttonName).Equals("White_King"))
         {
-            King(_x, _y);
+            King(x, y);
         }else if (GetPiece(buttonName).Equals("Black_Knight") || GetPiece(buttonName).Equals("White_Knight"))
         {
-            Knight(_x, _y);
+            Knight(x, y);
         }else if (GetPiece(buttonName).Equals("Black_Pawn") || GetPiece(buttonName).Equals("White_Pawn"))
         {
-            Pawn(_x, _y);
+            Pawn(x, y);
         }else if (GetPiece(buttonName).Equals("Black_Queen") || GetPiece(buttonName).Equals("White_Queen"))
         {
-            Queen(_x, _y);
+            Queen(x, y);
         }else if (GetPiece(buttonName).Equals("Black_Rook") || GetPiece(buttonName).Equals("White_Rook"))
         {
-            Rook(_x, _y);
+            Rook(x, y);
         }
     }
 

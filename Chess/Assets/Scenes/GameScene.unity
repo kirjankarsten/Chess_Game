@@ -11888,7 +11888,7 @@ MonoBehaviour:
   b9: {fileID: 457580346}
   b10: {fileID: 1115928106}
   b11: {fileID: 157550029}
-  b12: {fileID: 157550029}
+  b12: {fileID: 2010250767}
   b13: {fileID: 1491203822}
   b14: {fileID: 1932742603}
   b15: {fileID: 1910560472}
@@ -11941,19 +11941,18 @@ MonoBehaviour:
   b62: {fileID: 2122626401}
   b63: {fileID: 1527350313}
   b64: {fileID: 1336063683}
-  s1: {fileID: 0}
-  blackBishop: {fileID: 0}
-  blackKing: {fileID: 0}
-  blackKnight: {fileID: 0}
-  blackPawn: {fileID: 0}
-  blackQueen: {fileID: 0}
-  blackRook: {fileID: 0}
-  whiteBishop: {fileID: 0}
-  whiteKing: {fileID: 0}
-  whiteKnight: {fileID: 0}
-  whitePawn: {fileID: 0}
-  whiteQueen: {fileID: 0}
-  whiteRook: {fileID: 0}
+  blackBishop: {fileID: 21300000, guid: d95d7443a7ae5f24aa4193b5503154c2, type: 3}
+  blackKing: {fileID: 21300000, guid: 443a136994668a64981f40709400692c, type: 3}
+  blackKnight: {fileID: 21300000, guid: fcb9cbdd23d22ef4383f6ed2318896d7, type: 3}
+  blackPawn: {fileID: 21300000, guid: 892c4986a8807b64aa12bef81690a958, type: 3}
+  blackQueen: {fileID: 21300000, guid: e160aa2eb9a6fd048a5c3bd34b23059b, type: 3}
+  blackRook: {fileID: 21300000, guid: d37c5e8694232704ba716b892a681e6e, type: 3}
+  whiteBishop: {fileID: 21300000, guid: 3d1bd4f01128b4c4d9eb0b7ad0ba1045, type: 3}
+  whiteKing: {fileID: 21300000, guid: 7b6c9ccbfb57245449a8630f1ba60cbe, type: 3}
+  whiteKnight: {fileID: 21300000, guid: 74c6793e30b46f148b55aa2104fed875, type: 3}
+  whitePawn: {fileID: 21300000, guid: af9c17f60b5de5744ac774144ebe1a8c, type: 3}
+  whiteQueen: {fileID: 21300000, guid: 85e50e1f3c4037648901b5ca93bf5191, type: 3}
+  whiteRook: {fileID: 21300000, guid: 3b8aae4b575c7b14382814d974bd3426, type: 3}
 --- !u!1 &1717131135
 GameObject:
   m_ObjectHideFlags: 0
